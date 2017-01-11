@@ -1,0 +1,26 @@
+{
+  "name": "comp3025_lesson1",
+  "description": "Demo jQuery Mobile App",
+  "main": "index.js",
+  "authors": [
+    "D'Arcey Taylor"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "Hybrid",
+    "Mobile",
+    "Apps"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.1.4",
+    "jquery-mobile-bower": "^1.4.5"
+  }
+}
